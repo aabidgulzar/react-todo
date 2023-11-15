@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "title": "JavaScript",
+      "description": "JavaScript is an open-source programming language. It is designed for creating web-centric applications. It is lightweight and interpreted, which makes it much faster than other languages. JavaScript is integrated with HTML, which makes it easier to implement JavaScript in web applications.",
+      "date": "2023-11-15",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "description": "React allows us to pass information to components using things called props (short for properties). Because React comprises several components, props make it possible to share the same data across the components that need them. It makes use of one-directional data flow (parent-to-child components).",
+      "date": "2023-11-15",
+      "id": 2
+    }
+  ]
+}
